@@ -1,0 +1,4 @@
+# pyproject.toml
+[project]
+name = "mattermost-client"
+version = "0.1.0"
